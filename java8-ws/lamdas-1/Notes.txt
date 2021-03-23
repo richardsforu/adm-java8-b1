@@ -1,0 +1,68 @@
+Functional Programming
+===========================
+
+MENU
+------
+1. chicken biryani
+2. idle
+3. Mutton
+4. Dosa
+
+
+Obj oriented system
+----------------
+1. loop
+2. comparing
+3. copying
+-----------------
+
+functional programming
+--------------------------
+1. looping - developer
+2. comparing - developer
+3. copying - developer
+-------------------------
+
+Up to Java 7 only OOPS support. 
+SCALA
+
+Lamdas approach from scala
+
+   abc(){  // method expression
+   return "welcome" ;
+  }
+  
+  (a,b) ->{ // lamda expression
+  ---
+  ---
+  return "welcome";
+   }
+   
+   ---------------------------------------
+   
+   
+   why we need functional programming?
+   
+   => to keep code clean & concise
+   => behaviour parameterization to cope with changing requirements
+   
+   
+      String[] cities={.....}
+      for(String:cityName:cities){
+      }
+      
+      
+   
+   
+
+
+
+
+
+
+
+
+
+
+
+
